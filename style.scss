@@ -1,0 +1,17 @@
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+.container {
+    max-width: 300px;
+    width: 100%;
+    margin: 0 auto;
+}
+h1,.number {
+    text-align: center;
+}
+.number {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
